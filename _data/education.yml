@@ -1,4 +1,11 @@
 # Degree
+
+- degree: undergraduate  
+  uni: cuhk
+  year: 01/05/2022
+  # awards:
+  # summary:na
+=======
 - degree: Full Stack Webdeveloper Nanodegree
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
